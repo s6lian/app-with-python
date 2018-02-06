@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/shootinglian/Documents/GitHub/udemyCoding/bookstore_exe/dist/frontend',
+   'EXECUTABLE')],)
